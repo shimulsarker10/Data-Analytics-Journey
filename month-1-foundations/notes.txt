@@ -22,3 +22,11 @@
 - Learn Python basics (variables, data types, loops)
 - Create a new notebook: `python-basics.ipynb`
 - Start writing simple Python code for analysis
+
+
+📆 July 15, 2025
+Excel Practice - Data Sequencing & Formatting
+- Number sequences
+- Odd/Even number lists
+- Date series
+- Combining text + numbers 
